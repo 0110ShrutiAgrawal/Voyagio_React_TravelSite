@@ -1,6 +1,8 @@
 # Voyagio_React_TravelSite
 Voyagio is a dynamic travel website built using React, offering a seamless and engaging platform for travelers to explore destinations, plan their itineraries, and discover the world's hidden gems. With its user-friendly interface and real-time information, Voyagio makes the journey of travel enthusiasts more exciting and hassle-free.
 
+Let's explore a few snippets from my website :)
+
 
 ![Screenshot (698)](https://github.com/0110ShrutiAgrawal/Voyagio_React_TravelSite/assets/105358418/ae89eedb-0439-41c7-a9d0-46d6681877bc)
 
